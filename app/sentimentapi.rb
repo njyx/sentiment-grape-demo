@@ -23,7 +23,7 @@ class SentimentApi < Grape::API
     end 
   end
   
-  resource :sentence do
+  resource :sentences do
     get ':sentence' do
       {:sentence => params[:sentence], :result => "unkown"}.to_json
     end
