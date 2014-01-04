@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/njyx/sentiment-grape-demo.png?label=ready)](https://waffle.io/njyx/sentiment-grape-demo)  
 ## 3scale Example Sentiment API - V1.0: Basic API Method Calls and Authentication
 
 This is a very basic API that returns the sentiment value of a word or a sentence. You can define the sentiment value of any additional word that is not in the dictionary.
